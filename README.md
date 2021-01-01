@@ -18,7 +18,7 @@
             />
           </a>
         </td>
-        <td>
+<!--         <td>
           <a href="https://sensorialapp.herokuapp.com/">
             <img
               alt="A process-based art app."
@@ -33,7 +33,7 @@
               src="https://i.ibb.co/SNbCBYc/Tralfamagotchi.png"
             />
           </a>
-        </td>
+        </td> -->
       </tr>
     </tbody>
   </table>

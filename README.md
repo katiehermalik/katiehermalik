@@ -18,9 +18,24 @@
             />
           </a>
         </td>
+        <td>
+          <a href="https://sensorialapp.herokuapp.com/">
+            <img
+              alt="A process-based art app."
+              src="https://i.ibb.co/khXqGYW/Sensorial.png"
+            />
+          </a>
+        </td>
+        <td>
+          <a href="https://pages.git.generalassemb.ly/khermalik/project-zero-tralfamagotchi/">
+            <img
+              alt="A Vonnegut themed tamagotchi game."
+              src="https://i.ibb.co/SNbCBYc/Tralfamagotchi.png"
+            />
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<sub>Layout inspired by kentcdodds</sub>

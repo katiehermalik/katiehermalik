@@ -35,6 +35,17 @@
           </a>
         </td> -->
       </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <sub>React, Three.js, Node, Express, MongoDB, Mongoose</sub>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <sub>Python, Django, PostgreSQL</sub>
+          </div>
+        </td>
     </tbody>
   </table>
 </div>

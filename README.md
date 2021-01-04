@@ -3,6 +3,11 @@
     <tbody>
       <tr>
         <td>
+          <div align="center">
+            <h3>Lucuberate</h3>
+            <sub>JS, React, Three.js, Node, Express, MongoDB, Mongoose</sub>
+            <sub><hr></sub>
+          </div>
           <a href="https://lucuberate.herokuapp.com/">
             <img
               alt="Lucuberate, a flash-cube study app."
@@ -11,6 +16,11 @@
           </a>
         </td>
         <td>
+          <div align="center">
+            <h3>Anywhere. Else.</h3>
+            <sub>Python, Django, DTL, PostgreSQL</sub>
+            <sub><hr></sub>
+          </div>
           <a href="https://anywhere-else-app.herokuapp.com/">
             <img
               alt="Anywhere. Else. A travel community."
@@ -20,19 +30,14 @@
         </td>
       </tr>
       <tr>
-        <td>
-          <div align="center">
-            <sub>JS, React, Three.js, Node, Express, MongoDB, Mongoose</sub>
-          </div>
-        </td>
-        <td>
-          <div align="center">
-            <sub>Python, Django, DTL, PostgreSQL</sub>
-          </div>
-        </td>
       </tr>
       <tr>
         <td>
+          <div align="center">
+            <h3>Sensorial</h3>
+            <sub>JS, EJS, Node, Express, MongoDB, Mongoose</sub>
+            <sub><hr></sub>
+          </div>
           <a href="https://sensorialapp.herokuapp.com/">
             <img
               alt="A process-based art app."
@@ -40,25 +45,18 @@
             />
           </a>
         </td>
-        <td>
+        <td style="background: none;">
+          <div align="center">
+            <h3>Tralfamagotchi</h3>
+            <sub>JS, JQuery, HTML, CSS</sub>
+            <sub><hr></sub>
+          </div>
           <a href="https://pages.git.generalassemb.ly/khermalik/project-zero-tralfamagotchi/">
             <img
               alt="A Vonnegut themed tamagotchi game."
               src="https://i.ibb.co/SNbCBYc/Tralfamagotchi.png"
             />
           </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <div align="center">
-            <sub>JS, EJS, Node, Express, MongoDB, Mongoose</sub>
-          </div>
-        </td>
-        <td>
-          <div align="center">
-            <sub>JS, JQuery, HTML, CSS</sub>
-          </div>
         </td>
       </tr>
     </tbody>

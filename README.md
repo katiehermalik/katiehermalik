@@ -5,7 +5,7 @@
         <td>
           <div align="center">
             <h3>Lucuberate</h3>
-            <sub>JS, React, Three.js, Node, Express, MongoDB, Mongoose</sub>
+            <sub>JSX, React, Three.js, Node, Express, MongoDB, Mongoose</sub>
             <sub><hr></sub>
           </div>
           <a href="https://lucuberate.herokuapp.com/" target="_blank">

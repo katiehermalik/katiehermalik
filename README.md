@@ -8,7 +8,7 @@
             <sub>JS, React, Three.js, Node, Express, MongoDB, Mongoose</sub>
             <sub><hr></sub>
           </div>
-          <a href="https://lucuberate.herokuapp.com/">
+          <a href="https://lucuberate.herokuapp.com/" target="_blank">
             <img
               alt="Lucuberate, a flash-cube study app."
               src="https://i.ibb.co/Q8hVQr1/Lucuberate.png"
@@ -21,7 +21,7 @@
             <sub>Python, Django, DTL, PostgreSQL</sub>
             <sub><hr></sub>
           </div>
-          <a href="https://anywhere-else-app.herokuapp.com/">
+          <a href="https://anywhere-else-app.herokuapp.com/" target="_blank">
             <img
               alt="Anywhere. Else. A travel community."
               src="https://i.ibb.co/gTr4xv6/Anywhere-Else.png"
@@ -38,7 +38,7 @@
             <sub>JS, EJS, Node, Express, MongoDB, Mongoose</sub>
             <sub><hr></sub>
           </div>
-          <a href="https://sensorialapp.herokuapp.com/">
+          <a href="https://sensorialapp.herokuapp.com/" target="_blank">
             <img
               alt="A process-based art app."
               src="https://i.ibb.co/khXqGYW/Sensorial.png"
@@ -51,7 +51,7 @@
             <sub>JS, JQuery, HTML, CSS</sub>
             <sub><hr></sub>
           </div>
-          <a href="https://pages.git.generalassemb.ly/khermalik/project-zero-tralfamagotchi/">
+          <a href="https://pages.git.generalassemb.ly/khermalik/project-zero-tralfamagotchi/" target="_blank">
             <img
               alt="A Vonnegut themed tamagotchi game."
               src="https://i.ibb.co/SNbCBYc/Tralfamagotchi.png"

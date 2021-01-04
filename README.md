@@ -18,7 +18,21 @@
             />
           </a>
         </td>
-<!--         <td>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <sub>JS, React, Three.js, Node, Express, MongoDB, Mongoose</sub>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <sub>Python, Django, DTL, PostgreSQL</sub>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
           <a href="https://sensorialapp.herokuapp.com/">
             <img
               alt="A process-based art app."
@@ -33,19 +47,20 @@
               src="https://i.ibb.co/SNbCBYc/Tralfamagotchi.png"
             />
           </a>
-        </td> -->
+        </td>
       </tr>
       <tr>
         <td>
           <div align="center">
-            <sub>React, Three.js, Node, Express, MongoDB, Mongoose</sub>
+            <sub>JS, EJS, Node, Express, MongoDB, Mongoose</sub>
           </div>
         </td>
         <td>
           <div align="center">
-            <sub>Python, Django, PostgreSQL</sub>
+            <sub>JS, JQuery, HTML, CSS</sub>
           </div>
         </td>
+      </tr>
     </tbody>
   </table>
 </div>

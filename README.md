@@ -10,7 +10,7 @@
           </div>
           <a href="https://lucuberate.herokuapp.com/" target="_blank">
             <img
-              alt="Lucuberate, a flash-cube study app."
+              alt="LuCUBERate, a flash-cube study app."
               src="https://i.ibb.co/Q8hVQr1/Lucuberate.png"
             />
           </a>

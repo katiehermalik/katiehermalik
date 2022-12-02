@@ -11,7 +11,7 @@
           <a href="https://lucuberate.com/" target="_blank">
             <img
               alt="Lucuberate, a flash-cube study app."
-              src="https://i.ibb.co/q1NvLb2/lucuberate.png"
+              src="https://i.ibb.co/q5ydjyx/lucuberate-vid.gif"
             />
           </a>
         </td>

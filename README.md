@@ -4,8 +4,13 @@
       <tr>
         <td>
           <div align="center">
-            <h3>Lucuberate</h3>
-            <sub>JSX, React, Three.js, Node, Express, MongoDB, Mongoose</sub>
+            <h1>Lucuberate</h1>
+            <h3>A study app that leverages the convenience of a flash card into a third dimension.</h3>
+            <sub>React, Three.js, Node, Express, MongoDB</sub>
+            <h3>
+            <a href="https://github.com/katiehermalik/LuCUBERate" target="_blank">Repo</a><span style="display:inline;"> /</span>
+            <a href="https://lucuberate.com/" target="_blank">Live</a>
+            </h3>
             <sub><hr></sub>
           </div>
           <a href="https://lucuberate.com/" target="_blank">

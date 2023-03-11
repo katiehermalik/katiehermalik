@@ -13,7 +13,7 @@
             </h3>
             <sub><hr></sub>
           </div>
-          <a href="https://lucuberate.com/" target="_blank">
+          <a href="https://www.lucuberate.com/" target="_blank">
             <img
               alt="Lucuberate, a flash-cube study app."
               src="https://i.ibb.co/1RDjjyS/lucuberate.png"

@@ -9,7 +9,7 @@
             <sub>React, Three.js, Node, Express, MongoDB</sub>
             <h3>
             <a href="https://github.com/katiehermalik/LuCUBERate" target="_blank">Repo</a><span style="display:inline;"> /</span>
-            <a href="https://lucuberate.com/" target="_blank">Live</a>
+            <a href="https://www.lucuberate.com" target="_blank">Live</a>
             </h3>
             <sub><hr></sub>
           </div>
